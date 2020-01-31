@@ -1,2 +1,1 @@
-# einsteinpy.github.io
-REST
+Visit https://einsteinpy.org for details about the EinsteinPy Project!
